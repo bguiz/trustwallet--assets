@@ -1,0 +1,12 @@
+{
+  "name": "Trust Wallet: RSK",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-09-23T12:27:54.729Z",
+  "tokens": [
+  ],
+  "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+  }
+}
